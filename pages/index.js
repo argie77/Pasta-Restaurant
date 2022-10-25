@@ -11,7 +11,7 @@ export default function Home() {
         <meta name="description" content="Best pasta in New York" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      homepage
+      homepag
     <img src="/img/163-1638428_cook-png-transparent-background-.png"/>
     </div>
   )
